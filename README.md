@@ -34,10 +34,7 @@ For detailed setup instructions, usage examples, and advanced usage scenarios, v
 
 ## Not using ContextSDK yet?
 
-If you're interested in adding real-world context insights to your app, reach out to our team at support@contextsdk.com or visit [our website](https://contextsdk.com) to learn more.
-
-> [!NOTE]
-> ContextSDK requires an active license key for use. Please contact us to start your onboarding and obtain access to the SDK.
+If you're interested in adding real-world context insights to your app, you can [sign up here](https://console.contextsdk.com/register) to receive your license key and access. For more information about how ContextSDK can enhance your app’s user experience, visit our [website](https://contextsdk.com) or reach out to our team at support@contextsdk.com.
 
 ## Support
 
