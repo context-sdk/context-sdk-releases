@@ -12,7 +12,7 @@ Our SDK is written 100% in Swift and fully supports Objective-C, making it easy 
 
 ## Getting Started
 
-This repository is dedicated to managing releases of ContextSDK for Swift, distributed as a **Swift Package** with pre-built `.xcframework` binaries. For other platforms, such as Flutter and Android, or alternative installation methods like CocoaPods, please see our [official documentation](https://docs.decision.contextsdk.com/).
+This repository is dedicated to managing releases of ContextSDK for Swift, distributed as a **Swift Package** with pre-built `.xcframework` binaries. For other platforms, such as Flutter and Android, or alternative installation methods like CocoaPods, please see our [official documentation](https://docs.contextsdk.com/).
 
 To integrate ContextSDK into your Swift project, add the repository as a Swift Package Manager (SPM) dependency:
 
@@ -30,11 +30,11 @@ dependencies: [
 
 ## Documentation
 
-For detailed setup instructions, usage examples, and advanced usage scenarios, visit our [official documentation](https://docs.decision.contextsdk.com/).
+For detailed setup instructions, usage examples, and advanced usage scenarios, visit our [official documentation](https://docs.contextsdk.com/).
 
 ## Not using ContextSDK yet?
 
-If you’re interested in adding real-world context insights to your app, you can [sign up here](https://console.contextsdk.com/register) to receive your license key and access. For more information about how ContextSDK can enhance your app’s user experience, visit our [website](https://contextsdk.com) or reach out to our team at support@contextsdk.com.
+If you’re interested in adding real-world context insights to your app, you can [sign up here](https://dashboard.contextsdk.com/register) to receive your license key and access. For more information about how ContextSDK can enhance your app’s user experience, visit our [website](https://contextsdk.com) or reach out to our team at support@contextsdk.com.
 
 ## Support
 
