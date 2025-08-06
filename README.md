@@ -24,7 +24,7 @@ Or, add the SPM directly to your `Package.swift` file:
 
 ```swift
 dependencies: [
-    .package(name: "ContextSDK", url: "https://github.com/context-sdk/context-sdk-releases", .upToNextMajor(from: "4.7.0")),
+    .package(name: "ContextSDK", url: "https://github.com/context-sdk/context-sdk-releases", .upToNextMajor(from: "5.8.0")),
 ]
 ```
 
