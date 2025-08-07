@@ -1,10 +1,6 @@
 # ContextSDK for Swift
 
 [![GitHub tag](https://img.shields.io/github/v/tag/context-sdk/context-sdk-releases?label=latest%20release)](https://github.com/context-sdk/context-sdk-releases/tags)
-[![Changelog](https://img.shields.io/badge/changelog-latest-blue)](https://docs.decision.contextsdk.com/changelog/)
-[![Documentation](https://img.shields.io/badge/documentation-latest-blue)](https://docs.decision.contextsdk.com/)
-[![Issues](https://img.shields.io/github/issues/context-sdk/context-sdk-releases)](https://github.com/context-sdk/context-sdk-releases/issues)
-[![Pull Requests](https://img.shields.io/github/issues-pr/context-sdk/context-sdk-releases)](https://github.com/context-sdk/context-sdk-releases/pulls)
 
 ContextSDK is a powerful tool that brings real-world context and insights directly into your app through on-device signals, empowering you to boost conversions and engagement, enhance user experiences, and reduce churn — all with privacy in mind, as no personally identifiable information (PII) is ever collected.
 
@@ -14,9 +10,9 @@ This repository is dedicated to managing releases of ContextSDK for Swift, distr
 
 To integrate ContextSDK into your Swift project, add the repository as a Swift Package Manager (SPM) dependency:
 
-1. In Xcode, go to <kbd>File</kbd> → <kbd>Add Packages…</kbd>
-2. Enter the repository URL: `https://github.com/context-sdk/context-sdk-releases`
-3. Choose the latest version tag.
+1. In Xcode, go to <kbd>File</kbd> → <kbd>Add Package Dependencies…</kbd>
+2. Enter this repository URL in the top right
+3. Choose the latest version tag
 
 Or, add the SPM directly to your `Package.swift` file:
 
