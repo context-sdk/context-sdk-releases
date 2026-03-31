@@ -8,12 +8,19 @@ let package = Package(
         .library(
             name: "ContextSDK",
             targets: ["ContextSDK"]),
+        .library(
+            name: "ContextSDKExtension",
+            targets: ["ContextSDKExtension"]),
     ],
     dependencies: [],
     targets: [
         .binaryTarget(
             name: "ContextSDK",
             path: "releases/ContextSDK.zip"
+        ),
+        .binaryTarget(
+            name: "ContextSDKExtension",
+            path: "releases/ContextSDKExtension.zip"
         )
     ]
 )
